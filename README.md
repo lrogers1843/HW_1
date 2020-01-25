@@ -1,2 +1,6 @@
 # HW_1
-have done structure, need to fix img
+This is HW#1.
+
+The purpose of the project is to include semantic elements and alt attributes for images.
+
+This repo contains the code.
